@@ -7,7 +7,7 @@ export const ProjectCard = ({
     name,
     description,
     tags,
-    porject_link,
+    project_link,
     image,
   }:any) => {
   return (
