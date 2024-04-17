@@ -23,7 +23,7 @@ export default function Home() {
       <Contact />
       <div className="mx-auto px-4 text-black dark:text-white text-sm flex items-center justify-center pb-10">
         <p>
-          Copywrite &copy; 2024{" "}
+          &copy; 2024{" "}
           <span className="font-bold dark:text-rose-400 light-mode-text-color">Dennis Bandavong</span> All rights
           reserved
         </p>
