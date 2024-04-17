@@ -13,7 +13,7 @@ export const About = () => {
         <p
           className="sectionContent"
         >
-          My passion is to bring my unique talents to my field of data science. I want to be a part of a team that is making a difference to the everyday average joe. I have always found a comfort in analytics and mathematics, it is a built in talent. I actually enjoy budgeting for fun. Making my natural skills into my career is an exciting path to do what I love.
+          My passion is to bring my unique talents to the field of data science and software development. I want to be a part of a team that is making a difference to the community. I have always found projects in analytics and mathematics to be the most fun and comes natural. Making my natural skills into my career is an exciting path to do what I love.
         </p>
       </section> 
     </Section>

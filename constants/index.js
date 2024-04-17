@@ -113,7 +113,7 @@ const projects = [
     name: "Indecisive Food App",
     description:
       "Android application to implement various random choice menus to provide to the user to allow them to make a decision" +
-        "on what food they want to choose based on the nearby restaurants. ",
+        " on what food they want to choose based on the nearby restaurants. ",
     tags: [
       {
         name: "Android Studio",
