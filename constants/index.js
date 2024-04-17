@@ -125,7 +125,7 @@ const projects = [
       },
     ],
     image: placeholder,
-    project_link: "https://github.com/GeorgeG518/indecisive-app",
+    project_link: "#https://github.com/GeorgeG518/indecisive-app",
   },
   {
     name: "Project 2",
