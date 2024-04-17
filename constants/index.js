@@ -128,7 +128,7 @@ const projects = [
     project_link: "https://github.com/GeorgeG518/indecisive-app",
   },
   {
-    name: "MTSU Capstone Project: Lab Finder Website",
+    name: "MTSU Project: Lab Finder Website",
     description:
       "Developed a website for Middle Tennessee State University’s Psychology department and students. Allowed students and professors to " +
         "post and join research labs.",
