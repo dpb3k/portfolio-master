@@ -24,14 +24,14 @@ export const Hero = () => {
 
           <div className="flex flex-col gap-3 lg:gap-4 justify-start items-start">
             <h1 className="text-black dark:text-white text-xl md:text-3xl font-extrabold">
-                Hi, I&apos;m 
+                Hi, I&apos;m
                 <br />
                 <span className="light-mode-text-color dark:text-rose-300">
-                  Data Scientist
+                  Dennis Bandavong
                 </span>
             </h1>
             <p className="text-md text-gray-500 dark:text-rose-100 md:text-xl mt-4">
-                skilled in transforming complex <br className="sm:block hidden" />
+                skilled developer in transforming complex <br className="sm:block hidden" />
                 data into actionable insights. <br className="sm:block hidden"/>
                 <span>
                 <Typewriter
