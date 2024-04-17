@@ -127,27 +127,28 @@ const projects = [
     image: placeholder,
     project_link: "https://github.com/GeorgeG518/indecisive-app",
   },
-  // {
-  //   name: "Project 2",
-  //   description:
-  //     "Lorem ipsum dolor sit amet. Ut maxime illo ab esse doloribus ab suscipit quis quo iste similique non molestiae veritatis. Sed facere eos atque quas ut veniam sunt? Sed saepe harum ad delectus debitis ea illum rerum est labore illo et ipsam voluptas.",
-  //   tags: [
-  //     {
-  //       name: "AI",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Unity",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "ML",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: placeholder,
-  //   project_link: "#",
-  // },
+  {
+    name: "MTSU Capstone Project: Lab Finder Website",
+    description:
+      "Developed a website for Middle Tennessee State University’s Psychology department and students. Allowed students and professors to " +
+        "post and join research labs.",
+    tags: [
+      {
+        name: "React Vite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: placeholder,
+    project_link: "#",
+  },
   // {
   //   name: "Project 3",
   //   description:
