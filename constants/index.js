@@ -77,23 +77,23 @@ const technologies = [
     icon: cloud,
   },
   {
-    name: "Digital Forensics",
+    name: "React",
     icon: web,
   },
   {
-    name: "Network Analysis",
+    name: "Next.js",
     icon: backend,
   },
   {
-    name: "OS",
+    name: "TailwindCSS",
     icon: mobile,
   },
   {
-    name: "Malware Analysis",
+    name: "Express.js",
     icon: creator,
   },
   {
-    name: "SIEM",
+    name: "Node.js",
     icon: mobile,
   },
 
