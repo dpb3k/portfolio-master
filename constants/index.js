@@ -110,25 +110,22 @@ const educationList = [
 
 const projects = [
   {
-    name: "Project 1",
+    name: "Indecisive Food App",
     description:
-      "Lorem ipsum dolor sit amet. Ut maxime illo ab esse doloribus ab suscipit quis quo iste similique non molestiae veritatis. Sed facere eos atque quas ut veniam sunt? Sed saepe harum ad delectus debitis ea illum rerum est labore illo et ipsam voluptas.      ",
+      "Android application to implement various random choice menus to provide to the user to allow them to make a decision" +
+        "on what food they want to choose based on the nearby restaurants. ",
     tags: [
       {
-        name: "ReactJS",
+        name: "Android Studio",
         color: "blue-text-gradient",
       },
       {
-        name: "Redux",
+        name: "Java",
         color: "green-text-gradient",
-      },
-      {
-        name: "Django",
-        color: "pink-text-gradient",
       },
     ],
     image: placeholder,
-    project_link: "#",
+    project_link: "https://github.com/GeorgeG518/indecisive-app",
   },
   {
     name: "Project 2",
