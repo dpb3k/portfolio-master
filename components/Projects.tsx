@@ -15,7 +15,8 @@ export const Projects = () => {
           <p className="sectionContent">
             Following projects showcases my skills and experience through
             real-world examples of my work. Each project is briefly described with
-            links to code repositories and live demos in it. Feel free to explore.
+            links to code repositories and live demos in it. Feel free to explore. Click the
+            arrows to take you to each project.
           </p>
         </div>
 
