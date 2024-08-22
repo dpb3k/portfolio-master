@@ -149,27 +149,27 @@ const projects = [
     image: placeholder,
     project_link: "#",
   },
-  // {
-  //   name: "Project 3",
-  //   description:
-  //     "Lorem ipsum dolor sit amet. Ut maxime illo ab esse doloribus ab suscipit quis quo iste similique non molestiae veritatis. Sed facere eos atque quas ut veniam sunt? Sed saepe harum ad delectus debitis ea illum rerum est labore illo et ipsam voluptas.",
-  //   tags: [
-  //     {
-  //       name: "AR",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Unity",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Flutter",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: placeholder,
-  //   project_link: "#",
-  // },
+  {
+    name: "Data Visualizations",
+    description:
+      "Dashboards and visualizations of various datasets using Power BI, Tableau, and Jupyter Notebook.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Power BI / Tableau",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SQL",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: placeholder,
+    project_link: "https://spicy-attack-034.notion.site/530b78f61d894c6987035609c70c303b?v=312c88d2b8564f5486fb13275dec66f2",
+  },
   // {
   //   name: "Project 4",
   //   description:
