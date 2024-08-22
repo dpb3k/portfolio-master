@@ -46,6 +46,7 @@ export const Hero = () => {
               </span>
             </p>
             <a href="#contact" className="px-4 py-2 font-semibold rounded-lg bg-rose-800 text-white hover:cursor-pointer">Contact me</a>
+            <a href="#notion" className="px-4 py-2 font-semibold rounded-lg bg-rose-800 text-white hover:cursor-pointer">Data Visualizations</a>
           </div>
         </div>
 
