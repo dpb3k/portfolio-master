@@ -69,7 +69,7 @@ const technologies = [
     icon: powerbiblack,
   },
   {
-    name: "Statistic",
+    name: "Statistics",
     icon: linegraph,
   },
   {
@@ -104,7 +104,7 @@ const educationList = [
     title: "Bachelor of Applied Science",
     company_name: "Middle Tennessee State University",
     location: "Murfreesboro, TN",
-    date: "2019 - 2023",
+    date: "",
   },
 ];
 
@@ -137,7 +137,7 @@ const projects = [
         " on what food they want to choose based on the nearby restaurants. ",
     tags: [
       {
-        name: "Android Studio",
+        name: "Android",
         color: "blue-text-gradient",
       },
       {
